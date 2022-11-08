@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015394488642",
+    "project_id": "fir-crud-sinhvien",
+    "storage_bucket": "fir-crud-sinhvien.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015394488642:android:18edcfc8563b754883f8db",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015394488642-hb0qt164rkcgc5hrfqhk4oaub6nu2rur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYXWncHPqZgaFK5mzvEi-cIRStDYZ2QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015394488642-hb0qt164rkcgc5hrfqhk4oaub6nu2rur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
